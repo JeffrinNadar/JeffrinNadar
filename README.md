@@ -36,7 +36,6 @@
 ---
 
 ### 📊 GitHub Stats  
-![Jeffrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffrinnadar&show_icons=true&theme=transparent)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrinnadar&layout=compact&theme=transparent)  
 
 ---
