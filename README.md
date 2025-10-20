@@ -16,7 +16,7 @@
 
 ### 🛠️ Technical Skills  
 **Languages:** C++, Java, Python, JavaScript, SQL  
-**Frameworks/Tools:** Node.js, Express, Git
+**Frameworks/Tools:** Node.js, Express, Git  
 **Core Areas:** Data Structures & Algorithms, Systems Programming, Databases, Web Development  
 
 ---
