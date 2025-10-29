@@ -31,7 +31,7 @@
 ### 📫 Connect With Me  
 - 📧 Email: [anthony.jeffrin.b@gmail.com](mailto:anthony.jeffrin.b@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/jeffrinnadar](https://linkedin.com/in/jeffrinnadar)  
-- 🌐 Portfolio: *(coming soon)*  
+- 🌐 Portfolio: [jeffrinnadar.vercel.app](https://jeffrinnadar.vercel.app) 
 
 ---
 
